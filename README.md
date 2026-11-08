@@ -20,3 +20,7 @@ No installation, dependencies, API calls, or telemetry. The script checks the ro
 To modify it, edit `sequence` (`[input mask, tick count]`) and `route.axisWindows` (`[start tick, length, axis]`). Mask bits: right 1, left 2, jump 4, dash 8, down 16, interact 32, release jump 64. Axes range from -1 to 1; tick indices start at zero.
 
 [MIT licensed](LICENSE). This license covers the autopilot only; the game is not included.
+
+## Support
+
+Enjoyed this project? [Buy me a coffee](https://buymeacoffee.com/lansbe).
