@@ -3,6 +3,10 @@
 A browser-console autopilot for [Rooftop Reset](https://www.poteto.com/).
 Nightmare completed in **13.725 seconds with zero deaths** (1,647 physics ticks), verified on November 7, 2026.
 
+## Demo
+
+[Watch the full 13.725s Nightmare run](demo.mp4) (14.9s, no audio).
+
 ## Usage
 
 1. Open the game and leave the difficulty chooser visible.
