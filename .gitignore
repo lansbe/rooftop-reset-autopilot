@@ -1,0 +1,6 @@
+# Publish only these four files. Review this list before adding anything else.
+/*
+!/.gitignore
+!/README.md
+!/LICENSE
+!/autopilot.js
