@@ -23,4 +23,6 @@ To modify it, edit `sequence` (`[input mask, tick count]`) and `route.axisWindow
 
 ## Support
 
-Enjoyed this project? [Buy me a coffee](https://buymeacoffee.com/lansbe).
+<a href="https://buymeacoffee.com/lansbe">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" height="40">
+</a>
