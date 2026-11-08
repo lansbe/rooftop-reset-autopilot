@@ -5,7 +5,7 @@ Nightmare completed in **13.725 seconds with zero deaths** (1,647 physics ticks)
 
 ## Demo
 
-[Watch the full 13.725s Nightmare run](demo.mp4) (14.9s, no audio).
+[Download the full run](https://github.com/lansbe/rooftop-reset-autopilot/raw/refs/heads/master/demo.mp4) (MP4, 14.9s, no audio).
 
 ## Usage
 
