@@ -1,6 +1,6 @@
 # Rooftop Reset Autopilot
 
-A browser-console autopilot for [Rooftop Reset](https://www.poteto.com/).
+A browser-console autopilot for Rooftop Reset on [poteto.com](https://www.poteto.com/).
 Nightmare completed in **13.725 seconds with zero deaths** (1,647 physics ticks), verified on November 7, 2026.
 
 ## Demo
@@ -9,7 +9,7 @@ Nightmare completed in **13.725 seconds with zero deaths** (1,647 physics ticks)
 
 ## Usage
 
-1. Open the game and leave the difficulty chooser visible.
+1. Open [poteto.com](https://www.poteto.com/) and leave the difficulty chooser visible.
 2. Open your browser's developer console, paste [autopilot.js](autopilot.js), and run it.
 3. Keep the tab active for about 14 seconds. The script selects Nightmare and plays to the end.
 
